@@ -1,0 +1,4 @@
+# ninja log v6
+16	69216	7711489035758244	D:/MyCode/ActionRecognitionAll/shift-gcn-hb2/model/Temporal_shift/cuda/build/temp.win-amd64-cpython-39/Release/shift_cuda.obj	5e4938500ab8fadd
+1	31683	7711490741155653	D:/MyCode/ActionRecognitionAll/shift-gcn-hb2/model/Temporal_shift/cuda/build/temp.win-amd64-cpython-39/Release/shift_cuda_kernel.obj	dcac1a72e37fc116
+25	23885	7711530790504286	D:/MyCode/ActionRecognitionAll/shift-gcn-hb2/model/Temporal_shift/cuda/build/temp.win-amd64-cpython-39/Release/shift_cuda_kernel.obj	dcac1a72e37fc116

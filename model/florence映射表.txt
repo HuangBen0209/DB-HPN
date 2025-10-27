@@ -1,0 +1,26 @@
+florence = [
+       1：'SpineMid', 2：'Neck', 3：'Head',
+       4： 'ShoulderLeft', 5： 'ElbowLeft', 6：'WristLeft',
+      7： 'ShoulderRight', 8：'ElbowRight', 9：'WristRight',
+      10： 'HipLeft', 11：'KneeLeft', :12：'AnkleLeft',
+        13：'HipRight'，14： 'KneeRight', 15：'AnkleRight',
+    ]
+
+    1-2    2-3
+    2-4 4-5 5-6
+    2-7 7-8 8-9
+    1-10 10-11 11-12
+    1-13 13-14 14-15
+
+
+selected_nodes = [
+    'Head', 'Neck', 'SpineMid',
+    'ShoulderLeft', 'ElbowLeft', 'WristLeft',
+    'ShoulderRight', 'ElbowRight', 'WristRight',
+    'HipLeft', 'KneeLeft', 'AnkleLeft',
+    'HipRight', 'KneeRight', 'AnkleRight'
+]
+
+
+ neighbor_link = [(0, 1), (1, 2), (1, 3), (2, 4), (1, 5), (3, 6), (4, 7), (5, 8), (6, 10), (5, 9), (9, 11),
+                             (10, 12), (12, 13), (13, 14)]

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12276c40-56b2-42b8-b661-9a4eb73ce414" name="更改" comment="nothing" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SQLserver" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="HuangBen0209 &lt;2742256636@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2yGoenCpfsEIAxWtT9Ff5cqdkvG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Notification.DisplayName-DoNotAsk-Python Scientific View Advertiser&quot;: &quot;建议使用 Python 科学视图&quot;,
+    &quot;Notification.DoNotAsk-Python Scientific View Advertiser&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindow运行.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/MyCode/ActionRecognitionAll/000000/ST-GCN-ShiftGCN-hb/dataset_joint_bone&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyCode\ActionRecognitionAll\000000\ST-GCN-ShiftGCN-hb\dataset_joint_bone" />
+      <recent name="D:\MyCode\ActionRecognitionAll\000000\ST-GCN-ShiftGCN-hb\dataset" />
+      <recent name="D:\MyCode\ActionRecognitionAll\000000\ST-GCN-ShiftGCN-hb\train" />
+      <recent name="D:\MyCode\ActionRecognitionAll\000000\ST-GCN-ShiftGCN-hb\sql" />
+      <recent name="D:\MyCode\ActionRecognitionAll\000000\ST-GCN-ShiftGCN-hb\dataset_norm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyCode\ActionRecognitionAll\000000\ST-GCN-ShiftGCN-hb\dataset" />
+      <recent name="D:\MyCode\ActionRecognitionAll\000000\ST-GCN-ShiftGCN-hb\dataset_norm\simple" />
+      <recent name="D:\MyCode\ActionRecognitionAll\000000\ST-GCN-ShiftGCN-hb\dataset\simple" />
+      <recent name="D:\MyCode\ActionRecognitionAll\000000\ST-GCN-ShiftGCN-hb\main\实验结果\20250615" />
+      <recent name="D:\MyCode\ActionRecognitionAll\000000\ST-GCN-ShiftGCN-hb\main\实验结果\20250622" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="checkdataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ST-GCN-ShiftGCN-hb" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataset" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataset/checkdataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ST-GCN-ShiftGCN-hb" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_fusion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ST-GCN-ShiftGCN-hb" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/main_fusion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_fusion(2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ST-GCN-ShiftGCN-hb" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/main_fusion(2).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ntu_rgb_d" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ST-GCN-ShiftGCN-hb" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graph/ntu_rgb_d.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main_fusion(2)" />
+        <item itemvalue="Python.ntu_rgb_d" />
+        <item itemvalue="Python.checkdataset" />
+        <item itemvalue="Python.main_fusion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="12276c40-56b2-42b8-b661-9a4eb73ce414" name="更改" comment="" />
+      <created>1749470369116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749470369116</updated>
+      <workItem from="1749470370609" duration="1075000" />
+      <workItem from="1749471516380" duration="5211000" />
+      <workItem from="1749826146887" duration="19606000" />
+      <workItem from="1749953999785" duration="6374000" />
+      <workItem from="1749971309411" duration="1646000" />
+      <workItem from="1749987799293" duration="4639000" />
+      <workItem from="1750036335112" duration="20287000" />
+      <workItem from="1750242067901" duration="1418000" />
+      <workItem from="1750247272584" duration="2493000" />
+      <workItem from="1750251400429" duration="151000" />
+      <workItem from="1750254822537" duration="713000" />
+      <workItem from="1750322478127" duration="24607000" />
+      <workItem from="1750379797274" duration="4454000" />
+      <workItem from="1750509666715" duration="10250000" />
+      <workItem from="1750555184019" duration="40630000" />
+      <workItem from="1750675303551" duration="8282000" />
+      <workItem from="1750726018495" duration="6461000" />
+      <workItem from="1750997684644" duration="17374000" />
+      <workItem from="1751081858898" duration="18619000" />
+      <workItem from="1751286653127" duration="11408000" />
+      <workItem from="1751347728645" duration="13469000" />
+      <workItem from="1751373771666" duration="229000" />
+      <workItem from="1751374189362" duration="1546000" />
+      <workItem from="1751636013902" duration="4171000" />
+      <workItem from="1751724530320" duration="2894000" />
+      <workItem from="1751796480577" duration="38000" />
+      <workItem from="1752142309875" duration="270000" />
+      <workItem from="1752236099219" duration="3812000" />
+      <workItem from="1752240823843" duration="332000" />
+      <workItem from="1752282641392" duration="453000" />
+      <workItem from="1752470342958" duration="8180000" />
+      <workItem from="1752538585955" duration="2490000" />
+      <workItem from="1752647110612" duration="5449000" />
+      <workItem from="1752668323534" duration="2460000" />
+      <workItem from="1752729241735" duration="647000" />
+      <workItem from="1752731786970" duration="4005000" />
+      <workItem from="1752805626264" duration="3993000" />
+      <workItem from="1752833312719" duration="632000" />
+      <workItem from="1752845025836" duration="595000" />
+      <workItem from="1752850841779" duration="1122000" />
+      <workItem from="1752856744828" duration="1228000" />
+      <workItem from="1752899880569" duration="6002000" />
+      <workItem from="1752973906863" duration="3773000" />
+      <workItem from="1752981597213" duration="13445000" />
+      <workItem from="1753338803059" duration="4998000" />
+      <workItem from="1753588614284" duration="690000" />
+      <workItem from="1753620430756" duration="1303000" />
+      <workItem from="1754010643777" duration="1133000" />
+      <workItem from="1754019785894" duration="2477000" />
+      <workItem from="1754029930631" duration="4289000" />
+      <workItem from="1754100903108" duration="1831000" />
+      <workItem from="1754402370290" duration="6011000" />
+      <workItem from="1754484830857" duration="689000" />
+      <workItem from="1754487043847" duration="842000" />
+      <workItem from="1754538920645" duration="1850000" />
+      <workItem from="1754640110023" duration="350000" />
+      <workItem from="1754730691319" duration="1186000" />
+      <workItem from="1754742263263" duration="302000" />
+      <workItem from="1754795130286" duration="670000" />
+      <workItem from="1754813619287" duration="51000" />
+      <workItem from="1754815635520" duration="589000" />
+      <workItem from="1754829341886" duration="2057000" />
+      <workItem from="1754836848760" duration="3223000" />
+      <workItem from="1754840345871" duration="6000" />
+      <workItem from="1754840369203" duration="24000" />
+      <workItem from="1754984740933" duration="87000" />
+      <workItem from="1754991477060" duration="639000" />
+      <workItem from="1755000380336" duration="726000" />
+      <workItem from="1755003374088" duration="1484000" />
+      <workItem from="1755051250365" duration="3277000" />
+      <workItem from="1755346394631" duration="710000" />
+      <workItem from="1755502498814" duration="648000" />
+      <workItem from="1755595348407" duration="1642000" />
+      <workItem from="1755611634839" duration="2210000" />
+      <workItem from="1755830990944" duration="5919000" />
+      <workItem from="1755940640397" duration="598000" />
+      <workItem from="1756010731012" duration="12642000" />
+      <workItem from="1756272160334" duration="2235000" />
+      <workItem from="1757147960426" duration="42000" />
+      <workItem from="1758077071696" duration="489000" />
+      <workItem from="1758205130039" duration="588000" />
+      <workItem from="1758527782038" duration="581000" />
+      <workItem from="1758633844107" duration="5042000" />
+      <workItem from="1760236926999" duration="99000" />
+      <workItem from="1760237045876" duration="1461000" />
+      <workItem from="1760256808561" duration="739000" />
+      <workItem from="1761572019222" duration="4154000" />
+    </task>
+    <task id="LOCAL-00001" summary="st-shift-gcn,实现了三种策略：1、特征拼接；2、特征融合；3、概率融合（融合两个网络的softmax层分数进行预测）">
+      <created>1750520237580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1750520237580</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nothing">
+      <created>1750559295112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1750559295112</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <option name="closed" value="true" />
+      <created>1761574209957</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761574209957</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="st-shift-gcn,实现了三种策略：1、特征拼接；2、特征融合；3、概率融合（融合两个网络的softmax层分数进行预测）" />
+    <MESSAGE value="nothing" />
+    <option name="LAST_COMMIT_MESSAGE" value="nothing" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model/shift_gcn.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dataset_norm/data_loader.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/dataset_norm/data_loader.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$checkdataset.coverage" NAME="checkdataset 覆盖结果" MODIFIED="1756300741371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$demo.coverage" NAME="demo 覆盖结果" MODIFIED="1750556150698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model/Temporal_shift" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$main_fusion_2_.coverage" NAME="main_fusion(2) 覆盖结果" MODIFIED="1760256933168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$data_loader.coverage" NAME="data_loader 覆盖结果" MODIFIED="1754406717287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset_norm" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$test.coverage" NAME="test 覆盖结果" MODIFIED="1754402443952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$ntu_rgb_d.coverage" NAME="ntu_rgb_d 覆盖结果" MODIFIED="1758639113083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$main__1_.coverage" NAME="main (1) 覆盖结果" MODIFIED="1749830423242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$main_fusion.coverage" NAME="main_fusion 覆盖结果" MODIFIED="1755851348639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$st_shift_gcn_fusion.coverage" NAME="st_shift_gcn_fusion 覆盖结果" MODIFIED="1755831221890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$shift_gcn.coverage" NAME="shift_gcn 覆盖结果" MODIFIED="1750329439116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/model" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$tools.coverage" NAME="tools 覆盖结果" MODIFIED="1749470848435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$main.coverage" NAME="main 覆盖结果" MODIFIED="1760257007674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$get_data__1_.coverage" NAME="get_data (1) 覆盖结果" MODIFIED="1751726143363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$heatmap__1_.coverage" NAME="heatmap (1) 覆盖结果" MODIFIED="1754410512226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$test_model_fusion.coverage" NAME="test_model_fusion 覆盖结果" MODIFIED="1751638085512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$get_data.coverage" NAME="get_data 覆盖结果" MODIFIED="1754840110569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset_joint_bone" />
+    <SUITE FILE_PATH="coverage/ST_GCN_ShiftGCN_hb$get_norm_data__1_.coverage" NAME="get_norm_data (1) 覆盖结果" MODIFIED="1754406930731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset_norm" />
+  </component>
+</project>
