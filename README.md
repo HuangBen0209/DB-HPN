@@ -1,3 +1,171 @@
+# ST-Shift-GCN Fusion: Multi-Stream Fusion Model for Skeleton-Based Action Recognition
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-1.8%2B-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Python-3.7%2B-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
+</p>
+
+
+## Project Overview
+
+ST-Shift-GCN Fusion is a skeleton-based action recognition framework that uses Spatio-Temporal Shift Graph Convolutional Networks (ST-Shift-GCN) for feature extraction and employs **probability fusion at the softmax layer** to improve recognition accuracy.
+
+### Core Features
+
+- **Multi-Dataset Support**: Works with mainstream skeleton action datasets including MSRAction3D, UTKinectAction3D, and more
+- **Spatio-Temporal Fusion**: Combines spatial graph convolution with temporal shift operations to capture spatio-temporal features effectively
+- **Probability Fusion Strategy**: Enhances model performance by fusing multi-stream probabilities at the softmax layer
+- **Reproducibility**: Complete random seed setup ensures fully reproducible experimental results
+- **Flexible Configuration**: Modular design supports different graph structure configurations and training parameters
+
+## Environment Requirements
+
+### Core Dependencies
+
+```
+Python 3.7+
+PyTorch 1.8+
+NumPy
+```
+
+### Installation Steps
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/HuangBen0209/DB-HPN.git
+cd DB-HPN
+```
+
+2. Install dependencies:
+
+```bash
+pip install torch numpy
+```
+
+## Quick Start
+
+### Data Preparation
+
+1. Organize your dataset in this structure:
+
+```
+dataset/
+├── MSRAction3D_origin/
+│   └── joint/
+│       ├── train_data.npy
+│       ├── train_label.npy
+│       ├── test_data.npy
+│       └── test_label.npy
+└── UTKinectAction3D_origin/
+    └── joint/
+        ├── train_data.npy
+        └── ...
+```
+
+### Model Training
+
+Run the main training script:
+
+```bash
+python main_fusion.py
+```
+
+### Key Configuration Parameters
+
+Adjust these parameters in `main_fusion.py`:
+
+```python
+# Training parameters
+lr = 0.001
+num_epochs = 300
+batch_size_list = [16]
+run_seeds = [1]  # Random seeds
+
+# Model parameters
+use_residual = True
+edge_importance_weighting = True
+patience = 30  # Early stopping patience
+```
+
+## Project Structure
+
+```
+DB-HPN/
+├── main_fusion.py                 # Main training and testing script
+├── model/
+│   └── st_shift_gcn_fusion.py     # ST-Shift-GCN fusion model definition
+├── train/
+│   └── train_model_fusion.py      # Trainer implementation
+├── test/
+│   └── test_model_fusion.py       # Tester implementation
+├── graph/                         # Graph structure definitions
+│   ├── msr.py                    # MSR dataset graph structure
+│   └── ut.py                     # UT dataset graph structure
+├── dataset/                       # Dataset directory
+└── README.md
+```
+
+## Supported Datasets
+
+| Dataset             | Joints | Action Classes | Graph Layout |
+| ------------------- | ------ | -------------- | ------------ |
+| MSRAction3D         | 20     | 20             | msr          |
+| UTKinectAction3D    | 20     | 10             | ut           |
+| Florence3DActions   | 15     | 9              | florence     |
+| HanYueDailyAction3D | 25     | 15             | ntu-rgb+d    |
+
+## Model Architecture
+
+### ST-Shift-GCN Features
+
+- **Spatial Modeling**: Uses graph convolutional networks to capture spatial relationships between joints
+- **Temporal Modeling**: Processes time-series data through shift operations
+- **Multi-Stream Fusion**: Fuses probability outputs from multiple data streams at the softmax layer
+- **Adaptive Graph Structures**: Supports specialized graph layout strategies for different datasets
+
+### Fusion Strategy
+
+This project uses **softmax-level probability fusion**, performing weighted fusion of prediction probabilities from different streams to significantly improve final recognition accuracy.
+
+## Experimental Results
+
+Training automatically generates log files in `log_YYYY-MM-DD_HH_MM.txt` format, containing:
+
+- Model configuration and hyperparameters
+- Training loss and accuracy per epoch
+- Final accuracy on test set
+- Detailed multi-stream fusion results
+
+## Contributing
+
+We welcome community contributions! Please follow these steps:
+
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/AmazingFeature`
+3. Commit your changes: `git commit -m 'Add some AmazingFeature'`
+4. Push the branch: `git push origin feature/AmazingFeature`
+5. Open a Pull Request
+
+### Contribution Guidelines
+
+- Follow existing code style
+- Add appropriate comments and documentation
+- Update README.md for significant changes
+
+## Contact
+
+For questions or suggestions:
+
+- Create an [Issue](https://github.com/HuangBen0209/DB-HPN/issues)
+- Email the project maintainer
+
+## Acknowledgments
+
+Thanks to all developers who contributed to this project.
+
+
 # ST-Shift-GCN Fusion: 基于骨骼动作识别的多流融合模型
 
 <p align="center">
